@@ -1,5 +1,7 @@
 {
   "name": "Cync Lights Custom Integration",
   "domains": ["light"],
+  "homeassistant": "0.115.0",
+  "persistent_directory": "codes"
   "render_readme": true
 }
